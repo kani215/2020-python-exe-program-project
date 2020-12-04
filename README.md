@@ -1,6 +1,6 @@
 # 2020-python-exe-program-project
 2020 12 04 문서 정리 작업이 너무 싫어서 만듬
-this program makes my documentoperation more quick.
+this program makes my documentoperation more quickly.
 
 i made it by python 
 
