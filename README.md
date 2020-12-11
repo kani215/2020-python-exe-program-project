@@ -22,8 +22,13 @@ exe 프로그램 파일 제작이 목표
 이를 사용하기 편하게 index 형태로 전처리
 
 2. for 최종문서번호 :
-빠진 번호가 있으면 lista 에 넣는다.   
+빠진 번호가 있으면 find_list 에 넣는다.   
 
 print lista
 
-exe trans > test
+
+pyinstaller 활용 exe로 변환
+
+12-11 
+icon 제작
+적용 업그레이드
